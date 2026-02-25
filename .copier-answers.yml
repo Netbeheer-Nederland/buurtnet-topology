@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier
+_commit: '0.4'
+_src_path: gh:Netbeheer-Nederland/template-dp
+description: Information model for the buurtnet-topology data product.
+exchange_format: JSON-LD
+name: buurtnet-topology
+title: Buurtnet Topology (TP)
