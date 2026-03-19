@@ -192,6 +192,7 @@ classes:
         range: curie
         required: true
         multivalued: false
+    tree_root: true
     class_uri: cim:Substation
   IdentifiedObject:
     description: This is a root class to provide common identification for all classes
@@ -533,7 +534,6 @@ classes:
         required: true
         multivalued: true
     class_uri: cim:Location
-    tree_root: true
   StreetAddress:
     description: General purpose street and postal address information.
     from_schema: https://cim.ucaiug.io/ns#TC57CIM.IEC61968.Common
